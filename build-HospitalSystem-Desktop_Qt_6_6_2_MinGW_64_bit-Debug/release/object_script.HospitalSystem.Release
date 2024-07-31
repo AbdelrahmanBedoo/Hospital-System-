@@ -1,0 +1,16 @@
+release/admin.o
+release/admindashboard.o
+release/main.o
+release/loginwindow.o
+release/patient.o
+release/patientdashboard.o
+release/schedulepage.o
+release/signupwindow.o
+release/staff.o
+release/staffdashboard.o
+release/moc_admindashboard.o
+release/moc_loginwindow.o
+release/moc_patientdashboard.o
+release/moc_schedulepage.o
+release/moc_signupwindow.o
+release/moc_staffdashboard.o

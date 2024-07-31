@@ -1,0 +1,16 @@
+debug/admin.o
+debug/admindashboard.o
+debug/main.o
+debug/loginwindow.o
+debug/patient.o
+debug/patientdashboard.o
+debug/schedulepage.o
+debug/signupwindow.o
+debug/staff.o
+debug/staffdashboard.o
+debug/moc_admindashboard.o
+debug/moc_loginwindow.o
+debug/moc_patientdashboard.o
+debug/moc_schedulepage.o
+debug/moc_signupwindow.o
+debug/moc_staffdashboard.o
