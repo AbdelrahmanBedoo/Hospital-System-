@@ -1,2 +1,2 @@
 # Hospital-System-
-This sysmte was devleoped by Sama Emad and Abdelrahman Abdelbaky
+This system was devleoped by Sama Emad and Abdelrahman Abdelbaky
